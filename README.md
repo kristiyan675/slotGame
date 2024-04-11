@@ -6,7 +6,7 @@ This is a simple slot machine implemented in TypeScript. It includes a class wit
 
 1. Clone the repository:
 
-2. Install dependencies: 
+2. Run node index.js from terminal
 
 
 ## Features
